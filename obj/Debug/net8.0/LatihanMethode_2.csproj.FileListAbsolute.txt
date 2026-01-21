@@ -1,0 +1,14 @@
+C:\Users\LOQ\source\repos\LatihanMethode_2\LatihanMethode_2\obj\Debug\net8.0\LatihanMethode_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LOQ\source\repos\LatihanMethode_2\LatihanMethode_2\obj\Debug\net8.0\LatihanMethode_2.AssemblyInfoInputs.cache
+C:\Users\LOQ\source\repos\LatihanMethode_2\LatihanMethode_2\obj\Debug\net8.0\LatihanMethode_2.AssemblyInfo.cs
+C:\Users\LOQ\source\repos\LatihanMethode_2\LatihanMethode_2\obj\Debug\net8.0\LatihanMethode_2.csproj.CoreCompileInputs.cache
+C:\Users\LOQ\source\repos\LatihanMethode_2\LatihanMethode_2\bin\Debug\net8.0\LatihanMethode_2.exe
+C:\Users\LOQ\source\repos\LatihanMethode_2\LatihanMethode_2\bin\Debug\net8.0\LatihanMethode_2.deps.json
+C:\Users\LOQ\source\repos\LatihanMethode_2\LatihanMethode_2\bin\Debug\net8.0\LatihanMethode_2.runtimeconfig.json
+C:\Users\LOQ\source\repos\LatihanMethode_2\LatihanMethode_2\bin\Debug\net8.0\LatihanMethode_2.dll
+C:\Users\LOQ\source\repos\LatihanMethode_2\LatihanMethode_2\bin\Debug\net8.0\LatihanMethode_2.pdb
+C:\Users\LOQ\source\repos\LatihanMethode_2\LatihanMethode_2\obj\Debug\net8.0\LatihanMethode_2.dll
+C:\Users\LOQ\source\repos\LatihanMethode_2\LatihanMethode_2\obj\Debug\net8.0\refint\LatihanMethode_2.dll
+C:\Users\LOQ\source\repos\LatihanMethode_2\LatihanMethode_2\obj\Debug\net8.0\LatihanMethode_2.pdb
+C:\Users\LOQ\source\repos\LatihanMethode_2\LatihanMethode_2\obj\Debug\net8.0\LatihanMethode_2.genruntimeconfig.cache
+C:\Users\LOQ\source\repos\LatihanMethode_2\LatihanMethode_2\obj\Debug\net8.0\ref\LatihanMethode_2.dll
