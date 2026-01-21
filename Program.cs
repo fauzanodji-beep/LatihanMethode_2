@@ -13,7 +13,7 @@ decimal hitungdiskon(int jml_item)
         return 0;
 }
 
-decimal hitungtotalbayar (int  jml_item, int harga_item, decimal diskon)
+decimal hitungtotalbayar(int jml_item, int harga_item, decimal diskon)
 {
     return jml_item * harga_item - diskon;
 }
@@ -26,6 +26,6 @@ hargaitme = int.Parse(Console.ReadLine());
 
 diskon = hitungdiskon(jumlahitem);
 
-totalbayar = hitungtotalbayar ( jumlahitem, hargaitme, diskon);
+totalbayar = hitungtotalbayar(jumlahitem, hargaitme, diskon);
 
 Console.WriteLine($"Total bayar: Rp {totalbayar}");
